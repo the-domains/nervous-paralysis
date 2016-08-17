@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.38781177741475403
 name: nervous paralysis
+navigation:
+  - name: About Manifesto
+    url: 'http://www.manifesto.co.uk'
+    type: external
 title: This is the first stab
 description: What you see is what you get
